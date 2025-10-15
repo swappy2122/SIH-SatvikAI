@@ -109,7 +109,20 @@ The primary goal is to build trust and safety between patients and Ayurvedic doc
 
 
 ### Screenshots
+  - Doctor Authentication
+    <img width="777" height="583" alt="Screenshot 2025-10-07 at 12 51 15 PM" src="https://github.com/user-attachments/assets/64c665c0-c3cf-40b0-9aef-2db50e18fbe1" />
+    <img width="777" height="583" alt="Screenshot 2025-10-07 at 12 51 29 PM" src="https://github.com/user-attachments/assets/a279b288-8bc1-4fae-bb91-ce1c9ca17fa5" />
 
+  - Satvi-AI
+    <img width="789" height="583" alt="Screenshot 2025-10-07 at 12 37 37 PM" src="https://github.com/user-attachments/assets/afbd85ac-7796-41a6-a4f3-fb60357152bd" />
+    <img width="789" height="583" alt="Screenshot 2025-10-07 at 12 38 42 PM" src="https://github.com/user-attachments/assets/b5e1f0c8-de96-451a-8e19-d786ac4f5953" />
+    <img width="789" height="583" alt="Screenshot 2025-10-07 at 12 41 05 PM" src="https://github.com/user-attachments/assets/e5c31d6e-f9a3-418f-abf0-af0d6a55dffb" />
+    <img width="789" height="583" alt="Screenshot 2025-10-07 at 12 40 43 PM" src="https://github.com/user-attachments/assets/df5987f6-1e82-4e47-a231-0db6cdee595f" />
+
+
+
+    
+    
 
 
 
